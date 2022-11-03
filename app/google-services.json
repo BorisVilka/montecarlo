@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457035881502",
+    "project_id": "montecarlo-b83b9",
+    "storage_bucket": "montecarlo-b83b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457035881502:android:2d2359d0a2e2810337e20f",
+        "android_client_info": {
+          "package_name": "com.monte.carlo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457035881502-b0m6hmo1stoth81cjv2o6lpecla6jpq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgr08lWE839B-JQx50aeA68jz2scyMpuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457035881502-b0m6hmo1stoth81cjv2o6lpecla6jpq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
